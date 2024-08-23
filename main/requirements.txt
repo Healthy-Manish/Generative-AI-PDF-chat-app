@@ -8,3 +8,4 @@ faiss-cpu
 langchain_google_genai
 streamlit-extras
 streamlit-extras==0.4.6
+langchain-community
