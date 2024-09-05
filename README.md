@@ -72,6 +72,6 @@ To run this project locally, follow the steps below:
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project documentation
 └── data/               # Directory to store PDF files
-
+```
 <h2>This is the UI of the project of this chat app, I have created with the help of Gemini Pro</h2>
 <img src="main/GENAI.png"></img>
